@@ -3,4 +3,5 @@ def sum(a: int, b: int):
 
 if __name__ == "__main__":
 	print(sum(1, 4))
+	print("_ is your sum")
 
